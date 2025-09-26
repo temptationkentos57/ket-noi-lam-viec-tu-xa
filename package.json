@@ -1,0 +1,13 @@
+{
+  "name": "ket-noi-lam-viec-tu-xa",
+  "version": "1.0.0",
+  "description": "Nền tảng kết nối làm việc từ xa.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
